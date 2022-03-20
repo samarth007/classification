@@ -1,8 +1,7 @@
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.ensemble import AdaBoostClassifier
-from sklearn.linear_model import LogisticRegression
 
-from sklearn.metrics import accuracy_score
+from HyperParameter import Tuner
+
+from sklearn.metrics import recall_score
 
 class Model_Finder:
 
@@ -13,18 +12,18 @@ class Model_Finder:
 
     def getbestmodel(self,x_train,x_test,y_train,y_test):
         self.logger.log(self.file_object,"Retriving best model for each cluster")
-        self.randfrm=RandomForestClassifier(n_estimators=50)
-        self.randfrm.fit(x_train,y_train)
-        y_pred=self.randfrm.predict(x_test)
-        self.randscore=accuracy_score(y_pred,y_test)
+        tun=Tuner(self.logger,self.file_object)
+
+        self.randomFrst=tun.bestParamsForRandomFrst(x_train,y_train)
+        y_pred_randfrst=self.randomFrst.predict(x_test)
+        self.randscore=recall_score(y_pred_randfrst,y_test)
 
 
-        self.ada=LogisticRegression(penalty='none')
-        self.ada.fit(x_train,y_train)
-        y_pred_ada=self.ada.predict(x_test)
-        self.adascore=accuracy_score(y_pred_ada,y_test)
+        self.xgboost=tun.bestParamsForXGboost(x_train,y_train)
+        y_pred_xgboost=self.xgboost.predict(x_test)
+        self.xgbst_score=recall_score(y_pred_xgboost,y_test)
 
-        if(self.randscore > self.adascore):
-            return "RandomForest",self.randfrm
+        if(self.randscore > self.xgbst_score):
+            return "RandomForest",self.randomFrst
         else:
-            return "Logistic",self.ada
+            return "XGBOOST",self.xgboost

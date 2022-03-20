@@ -10,8 +10,4 @@ class train_valid:
 
     def train_validations(self):
             self.log_writer.log(self.file_object,'Validation starts')
-            self.dataTransform.replaceMissingvalues()
-            self.dataTransform.detectOutliers()
-            self.dataTransform.returnData()
-
 
