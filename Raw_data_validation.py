@@ -14,14 +14,5 @@ class RawDatavalidation:
 
         self.logger.log(log_file,"File missing values replaced successfully")
 
-    def detectOutliers(self):
-        log_file=open("TrainingLogs/dataOutlier.txt",'a+')
-
-        for i in self.newdata:
-          upperlimit=self.newdata[i].mean() + 3 * self.newdata[i].std()
-          lowerlimit=self.newdata[i].mean() - 3 * self.newdata[i].std()
-          self.newdata.drop((self.newdata[i]> upperlimit) | (self.newdata[i] < lowerlimit),inplace=True)
-        self.logger.log(log_file,'Outliers removed successfully')
-
     def returnData(self):
         self.newdata.to_csv('InputCsv/NewData.csv',index=False)

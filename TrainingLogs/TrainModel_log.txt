@@ -157,3 +157,15 @@
 2022-03-20/13:00:45		Model saved
 2022-03-20/13:00:45		Retriving best model for each cluster
 2022-03-20/13:00:45		Model saved
+2022-03-20/15:10:17		Model training starts
+2022-03-20/15:10:17		label separation done
+2022-03-20/15:10:17		Outliers removed successfully
+2022-03-20/15:10:17		Missing values identified
+2022-03-20/15:10:17		features with std are zero
+2022-03-20/15:10:17		columns removed
+2022-03-20/15:10:17		Cluster model saved
+2022-03-20/15:10:17		cluster created successfully
+2022-03-20/15:10:17		Retriving best model for each cluster
+2022-03-20/15:10:17		Model saved
+2022-03-20/15:10:17		Retriving best model for each cluster
+2022-03-20/15:10:17		Model saved

@@ -1,0 +1,10 @@
+2022-03-20/16:01:05		Prediction started
+2022-03-20/16:01:05		Missing values identified
+2022-03-20/16:01:05		Outliers removed successfully
+2022-03-20/16:01:05		features with std are zero
+2022-03-20/16:01:05		columns removed
+2022-03-20/16:01:05		Kmeans_Cluster_model_loaded
+2022-03-20/16:01:05		Model with i=1 loaded and performed on cluster on 1
+2022-03-20/16:01:05		Model prediction done on 1 cluster
+2022-03-20/16:01:05		Model with i=0 loaded and performed on cluster on 0
+2022-03-20/16:01:05		Model prediction done on 0 cluster
