@@ -1,0 +1,159 @@
+2022-03-18/22:19:17		Model training starts
+2022-03-18/22:20:40		Model training starts
+2022-03-19/14:19:34		Model training starts
+2022-03-19/14:19:34		label separation done
+2022-03-19/14:19:34		Missing values identified
+2022-03-19/14:19:34		features with std are zero
+2022-03-19/14:19:34		columns removed
+2022-03-19/14:19:34		cluster created successfully
+2022-03-19/14:19:34		Retriving best model for each cluster
+2022-03-19/14:19:35		Retriving best model for each cluster
+2022-03-19/14:22:13		Model training starts
+2022-03-19/14:22:13		label separation done
+2022-03-19/14:22:13		Missing values identified
+2022-03-19/14:22:13		features with std are zero
+2022-03-19/14:22:13		columns removed
+2022-03-19/14:22:14		cluster created successfully
+2022-03-19/14:22:14		Retriving best model for each cluster
+2022-03-19/14:22:14		Retriving best model for each cluster
+2022-03-19/14:25:54		Model training starts
+2022-03-19/14:25:54		label separation done
+2022-03-19/14:25:54		Missing values identified
+2022-03-19/14:25:54		features with std are zero
+2022-03-19/14:25:54		columns removed
+2022-03-19/14:25:54		cluster created successfully
+2022-03-19/14:25:54		Retriving best model for each cluster
+2022-03-19/15:43:06		Model training starts
+2022-03-19/15:43:06		label separation done
+2022-03-19/15:43:06		Missing values identified
+2022-03-19/15:43:06		features with std are zero
+2022-03-19/15:43:06		columns removed
+2022-03-19/15:43:06		cluster created successfully
+2022-03-19/15:43:06		Retriving best model for each cluster
+2022-03-19/17:08:36		Model training starts
+2022-03-19/17:08:36		label separation done
+2022-03-19/17:08:36		Missing values identified
+2022-03-19/17:08:36		features with std are zero
+2022-03-19/17:08:36		columns removed
+2022-03-19/17:08:36		cluster created successfully
+2022-03-19/17:08:36		Retriving best model for each cluster
+2022-03-20/11:01:27		Model training starts
+2022-03-20/11:01:27		label separation done
+2022-03-20/11:01:27		Outliers removed successfully
+2022-03-20/11:01:27		Missing values identified
+2022-03-20/11:01:27		features with std are zero
+2022-03-20/11:01:27		columns removed
+2022-03-20/11:01:28		cluster created successfully
+2022-03-20/11:01:28		Retriving best model for each cluster
+2022-03-20/11:14:43		Model training starts
+2022-03-20/11:14:43		label separation done
+2022-03-20/11:14:43		Outliers removed successfully
+2022-03-20/11:14:43		Missing values identified
+2022-03-20/11:14:43		features with std are zero
+2022-03-20/11:14:43		columns removed
+2022-03-20/11:14:43		cluster created successfully
+2022-03-20/11:14:43		Retriving best model for each cluster
+2022-03-20/11:16:56		Model training starts
+2022-03-20/11:16:56		label separation done
+2022-03-20/11:16:56		Outliers removed successfully
+2022-03-20/11:16:56		Missing values identified
+2022-03-20/11:16:56		features with std are zero
+2022-03-20/11:16:56		columns removed
+2022-03-20/11:16:56		cluster created successfully
+2022-03-20/11:16:56		Retriving best model for each cluster
+2022-03-20/11:18:33		Model training starts
+2022-03-20/11:18:33		label separation done
+2022-03-20/11:18:33		Outliers removed successfully
+2022-03-20/11:18:33		Missing values identified
+2022-03-20/11:18:33		features with std are zero
+2022-03-20/11:18:33		columns removed
+2022-03-20/11:18:33		cluster created successfully
+2022-03-20/11:18:33		Retriving best model for each cluster
+2022-03-20/11:19:41		Model training starts
+2022-03-20/11:19:41		label separation done
+2022-03-20/11:19:41		Outliers removed successfully
+2022-03-20/11:19:41		Missing values identified
+2022-03-20/11:19:41		features with std are zero
+2022-03-20/11:19:41		columns removed
+2022-03-20/11:19:41		cluster created successfully
+2022-03-20/11:19:41		Retriving best model for each cluster
+2022-03-20/11:26:58		Model training starts
+2022-03-20/11:26:58		label separation done
+2022-03-20/11:26:58		Outliers removed successfully
+2022-03-20/11:26:58		Missing values identified
+2022-03-20/11:26:58		features with std are zero
+2022-03-20/11:26:58		columns removed
+2022-03-20/11:26:58		cluster created successfully
+2022-03-20/11:26:58		Retriving best model for each cluster
+2022-03-20/11:27:45		Model training starts
+2022-03-20/11:27:45		label separation done
+2022-03-20/11:27:45		Outliers removed successfully
+2022-03-20/11:27:45		Missing values identified
+2022-03-20/11:27:45		features with std are zero
+2022-03-20/11:27:45		columns removed
+2022-03-20/11:27:46		cluster created successfully
+2022-03-20/11:27:46		Retriving best model for each cluster
+2022-03-20/11:28:07		Model training starts
+2022-03-20/11:28:07		label separation done
+2022-03-20/11:28:07		Outliers removed successfully
+2022-03-20/11:28:07		Missing values identified
+2022-03-20/11:28:07		features with std are zero
+2022-03-20/11:28:07		columns removed
+2022-03-20/11:28:07		cluster created successfully
+2022-03-20/11:28:07		Retriving best model for each cluster
+2022-03-20/12:17:05		Model training starts
+2022-03-20/12:17:05		label separation done
+2022-03-20/12:17:05		Outliers removed successfully
+2022-03-20/12:17:05		Missing values identified
+2022-03-20/12:17:05		features with std are zero
+2022-03-20/12:17:05		columns removed
+2022-03-20/12:17:06		cluster created successfully
+2022-03-20/12:17:06		Retriving best model for each cluster
+2022-03-20/12:17:06		Model saved
+2022-03-20/12:19:01		Model training starts
+2022-03-20/12:19:01		label separation done
+2022-03-20/12:19:01		Outliers removed successfully
+2022-03-20/12:19:01		Missing values identified
+2022-03-20/12:19:01		features with std are zero
+2022-03-20/12:19:01		columns removed
+2022-03-20/12:19:01		cluster created successfully
+2022-03-20/12:19:01		Retriving best model for each cluster
+2022-03-20/12:19:01		Model saved
+2022-03-20/12:19:01		Retriving best model for each cluster
+2022-03-20/12:19:02		Model saved
+2022-03-20/12:47:24		Model training starts
+2022-03-20/12:47:24		label separation done
+2022-03-20/12:47:24		Outliers removed successfully
+2022-03-20/12:47:24		Missing values identified
+2022-03-20/12:47:24		features with std are zero
+2022-03-20/12:47:24		columns removed
+2022-03-20/12:47:24		Cluster model saved
+2022-03-20/12:47:24		cluster created successfully
+2022-03-20/12:47:24		Retriving best model for each cluster
+2022-03-20/12:47:24		Model saved
+2022-03-20/12:47:24		Retriving best model for each cluster
+2022-03-20/12:47:24		Model saved
+2022-03-20/12:59:13		Model training starts
+2022-03-20/12:59:13		label separation done
+2022-03-20/12:59:14		Outliers removed successfully
+2022-03-20/12:59:14		Missing values identified
+2022-03-20/12:59:14		features with std are zero
+2022-03-20/12:59:14		columns removed
+2022-03-20/12:59:14		Cluster model saved
+2022-03-20/12:59:14		cluster created successfully
+2022-03-20/12:59:14		Retriving best model for each cluster
+2022-03-20/12:59:14		Model saved
+2022-03-20/12:59:14		Retriving best model for each cluster
+2022-03-20/12:59:14		Model saved
+2022-03-20/13:00:45		Model training starts
+2022-03-20/13:00:45		label separation done
+2022-03-20/13:00:45		Outliers removed successfully
+2022-03-20/13:00:45		Missing values identified
+2022-03-20/13:00:45		features with std are zero
+2022-03-20/13:00:45		columns removed
+2022-03-20/13:00:45		Cluster model saved
+2022-03-20/13:00:45		cluster created successfully
+2022-03-20/13:00:45		Retriving best model for each cluster
+2022-03-20/13:00:45		Model saved
+2022-03-20/13:00:45		Retriving best model for each cluster
+2022-03-20/13:00:45		Model saved
